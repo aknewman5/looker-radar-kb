@@ -1,0 +1,25 @@
+{
+  "name": "Michael Whitaker",
+  "organization": "Michael Whitaker",
+  "description": "Radar Chart",
+  "logoUrl": "https://storage.googleapis.com/analytics_buddy_viz/radar-chart/radar-chart-icon.png",
+  "organizationUrl": "https://www.michaelwhitaker.com/",
+  "packageUrl": "https://lookerstudio.google.com/reporting/830f64a2-39e4-4744-95ab-9e3f56d12642",
+  "supportUrl": "https://www.michaelwhitaker.com/posts/2025-05-13-looker-radar-chart/",
+  "privacyPolicyUrl": "https://www.michaelwhitaker.com/privacy-policy/",
+  "termsOfServiceUrl": "https://www.michaelwhitaker.com/terms-of-service/",
+  "devMode": false,
+  "components": [
+    {
+      "id": "radar-chart",
+      "name": "Radar Chart",
+      "description": "A modern Radar Chart visualization based on Observable Plot",
+      "iconUrl": "https://storage.googleapis.com/analytics_buddy_viz/radar-chart/radar-chart-icon.png",
+      "resource": {
+        "js": "gs://analytics_buddy_viz/radar-chart/index.js",
+        "config": "gs://analytics_buddy_viz/radar-chart/index.json",
+        "css": "gs://analytics_buddy_viz/radar-chart/index.css"
+      }
+    }
+  ]
+}
