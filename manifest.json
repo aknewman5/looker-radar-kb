@@ -16,9 +16,10 @@
       "description": "A modern Radar Chart visualization based on Observable Plot",
       "iconUrl": "https://storage.googleapis.com/analytics_buddy_viz/radar-chart/radar-chart-icon.png",
       "resource": {
-        "js": "gs://analytics_buddy_viz/radar-chart/index.js",
-        "config": "gs://analytics_buddy_viz/radar-chart/index.json",
-        "css": "gs://analytics_buddy_viz/radar-chart/index.css"
+        "js": "https://aknewman5.github.io/looker-radar-kb/index.js",
+        "config": "https://aknewman5.github.io/looker-radar-kb/index.json",
+        "css": "https://aknewman5.github.io/looker-radar-kb/index.css"
+      }
       }
     }
   ]
