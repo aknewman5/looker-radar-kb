@@ -1,26 +1,26 @@
 {
-  "name": "Michael Whitaker",
-  "organization": "Michael Whitaker",
-  "description": "Radar Chart",
+  "name": "Custom Radar Chart (0–5 Scale)",
+  "organization": "Ally Newman",
+  "description": "Radar Chart visualization with fixed 0–5 scale for student assessment data",
   "logoUrl": "https://storage.googleapis.com/analytics_buddy_viz/radar-chart/radar-chart-icon.png",
-  "organizationUrl": "https://www.michaelwhitaker.com/",
-  "packageUrl": "https://lookerstudio.google.com/reporting/830f64a2-39e4-4744-95ab-9e3f56d12642",
-  "supportUrl": "https://www.michaelwhitaker.com/posts/2025-05-13-looker-radar-chart/",
-  "privacyPolicyUrl": "https://www.michaelwhitaker.com/privacy-policy/",
-  "termsOfServiceUrl": "https://www.michaelwhitaker.com/terms-of-service/",
+  "organizationUrl": "https://aknewman5.github.io/",
+  "packageUrl": "https://aknewman5.github.io/looker-radar-kb/",
+  "supportUrl": "https://aknewman5.github.io/looker-radar-kb/",
+  "privacyPolicyUrl": "https://aknewman5.github.io/looker-radar-kb/",
+  "termsOfServiceUrl": "https://aknewman5.github.io/looker-radar-kb/",
   "devMode": false,
   "components": [
     {
       "id": "radar-chart",
-      "name": "Radar Chart",
-      "description": "A modern Radar Chart visualization based on Observable Plot",
+      "name": "Radar Chart (0–5)",
+      "description": "Radar chart with fixed 0–5 numeric scale and question-based axes",
       "iconUrl": "https://storage.googleapis.com/analytics_buddy_viz/radar-chart/radar-chart-icon.png",
       "resource": {
         "js": "https://aknewman5.github.io/looker-radar-kb/index.js",
         "config": "https://aknewman5.github.io/looker-radar-kb/index.json",
         "css": "https://aknewman5.github.io/looker-radar-kb/index.css"
       }
-      }
     }
   ]
 }
+
